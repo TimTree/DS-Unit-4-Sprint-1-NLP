@@ -105,3 +105,4 @@ venv.bak/
 module1-text-data/.DS_Store
 module1-text-data/data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
 .vscode/settings.json
+module1-text-data/data/.DS_Store
